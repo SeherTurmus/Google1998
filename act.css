@@ -1,0 +1,52 @@
+.picture {
+    text-align: center;
+}
+.firstbox {
+    margin:0 auto;
+    background-color: #eeeeee;
+    height: 65px;
+    width: 1200px;
+}
+#firstcenter {
+    text-align: center;
+    background-color:"red" colspan="3";
+}
+.secondcenter {
+    text-align: center;
+    margin: 0 auto;
+}
+.content {
+    float: left;
+    background-color: rgb(80, 219, 219);
+    height: 70px;
+    margin-top: 1px;
+    padding: 0;
+    text-align: center;
+    width: 33%;
+}
+.secondbox {
+    align-content: center;
+    margin: 0 auto;
+    width: 1200px;
+    text-align: center;
+}
+#special {
+    text-align: center;
+}
+#c1 {
+    background-color: #7ee5da;
+}
+#c2 {
+    background-color: #70CCC2;
+}
+#c3 {
+    background-color: #62B3AA;
+}
+#last {
+    float: left;
+    width: 1200px;
+    text-align: center;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-left: 80px ;
+}
